@@ -1,0 +1,12 @@
+body {
+  background: url("../img/2.png");
+  font-family: 'Comme', sans-serif;
+}
+
+@font-face {
+  font-family: "Comme";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Roboto"),
+  url("../fonts/Comme-Regular.ttf") format("ttf");
+}
